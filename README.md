@@ -32,7 +32,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Rishisrv1470/Data_analysis_Project
-   cd Data_Science_Project
+   cd Data_analysis_Project
 
 ## Analysis
 This section provides a brief overview of the analysis performed:
